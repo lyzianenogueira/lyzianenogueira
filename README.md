@@ -1,4 +1,4 @@
-<h2 align="left">Olá, eu sou Lyziane<br>Uma estudante de Ciência da Computação</h2>
+<h2 align="left">Olá, eu sou Lyziane</h2>
 
 ###
 
